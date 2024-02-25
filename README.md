@@ -1,7 +1,6 @@
-<p align="center" width="60%">
-    <img width="33%" src="[https://i.stack.imgur.com/RJj4x.png](https://gifdb.com/images/high/cherry-blossom-video-game-pixel-0qoh4j8gvb9socdu.gif)">
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://drive.google.com/file/d/1nkugXAg-YCe8Bh9E-pFznrhDZXAgKETx/view?usp=sharing)"/>
 </p>
-
 ###
 
 <h1 align="center">hey there 👋</h1>
