@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">I'm Vy, I'm from Viet Nam<br><br>- 🔭 I’m am a student of University of Information Technology<br>- 📚 My current major is Information Security</p>
+<p align="left">I'm Vy, I'm from Viet Nam<br><br>- 🔭 I’m am a second year student of University of Information Technology<br>- 📚 My current major is Information Security</p>
 
 ###
 
