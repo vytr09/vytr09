@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gifdb.com/gif/cherry-blossom-video-game-pixel-0qoh4j8gvb9socdu.html?embed=true"/>
+  <img src="https://gifdb.com/images/high/cherry-blossom-video-game-pixel-0qoh4j8gvb9socdu.gif"/>
 </p>
 
 ###
