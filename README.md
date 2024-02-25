@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://drive.google.com/file/d/1nkugXAg-YCe8Bh9E-pFznrhDZXAgKETx/view?usp=sharing)"/>
+  <img src="https://drive.google.com/file/d/1nkugXAg-YCe8Bh9E-pFznrhDZXAgKETx/view?usp=sharing"/>
 </p>
 
 ###
