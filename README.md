@@ -4,7 +4,6 @@
 
 <h1 align="center">Hello there 👋</h1>
 
----
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
