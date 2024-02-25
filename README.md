@@ -1,4 +1,5 @@
-![cherry-blossom-video-game-pixel-0qoh4j8gvb9socdu-ezgif com-optimize](https://github.com/vytr09/vytr09/assets/153002111/f9a48879-d6d4-4e22-8e55-ca4d131c7673)
+
+![cherry-blossom-video-game-pixel-0qoh4j8gvb9socdu-ezgif com-optimize](https://github.com/vytr09/vytr09/assets/153002111/21ee6a71-2f05-4fe4-b0fa-c0903cacda37)
 
 ###
 
@@ -10,7 +11,7 @@
 
 ###
 
-<p align="left">I'm Vy from Viet Nam<br><br>- 🔭 I’m am a student of University of Information Technology<br>- 📚 I'm currently learning Information Security</p>
+<p align="left">I'm Vy, I'm from Viet Nam<br><br>- 🔭 I’m am a student of University of Information Technology<br>- 📚 I'm currently learning Information Security</p>
 
 ###
 
@@ -36,18 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-</div>
-
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/ttthuyvy/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/hira.fh/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
 </div>
 
 ###
