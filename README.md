@@ -7,7 +7,7 @@
 <h1 align="center">Hello there 👋</h1>
 
 ###
-
+---
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -44,4 +44,3 @@
 ###
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vytr09&icon=0&color=9)](https://visitcount.itsvg.in)
