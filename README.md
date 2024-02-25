@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://gifdb.com/images/high/cherry-blossom-video-game-pixel-0qoh4j8gvb9socdu.gif"  />
+  <img height="200" src="https://gifdb.com/images/high/cherry-blossom-video-game-pixel-0qoh4j8gvb9socdu.gif"  />
 </div>
 
 ###
@@ -40,9 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/vytr09/vytr09/output/snake.svg" alt="Snake animation" />
 
 ###
 
