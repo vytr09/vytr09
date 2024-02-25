@@ -1,5 +1,7 @@
 
-![cherry-blossom-video-game-pixel-0qoh4j8gvb9socdu-ezgif com-optimize](https://github.com/vytr09/vytr09/assets/153002111/21ee6a71-2f05-4fe4-b0fa-c0903cacda37)
+<p align="center" width="100%">
+    <img width="33%" src="[https://i.stack.imgur.com/RJj4x.png](https://gifdb.com/images/high/cherry-blossom-video-game-pixel-0qoh4j8gvb9socdu.gif)">
+</p>
 
 ###
 
