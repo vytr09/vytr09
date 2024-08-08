@@ -4,11 +4,11 @@
 
 <h1 align="center">Hello there 👋</h1>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">I'm Vy, I'm from Viet Nam<br><br>- 🔭 I’m am a second year student of University of Information Technology<br>- 📚 My current major is Information Security</p>
+<p align="left">Hi, I'm Vy! I'm from Vietnam and currently a student at the University of Information Technology, majoring in Information Security. <br/>My passion lies in the intersection of technology, security, and creative design.</p>
 
 ###
 
@@ -28,10 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
